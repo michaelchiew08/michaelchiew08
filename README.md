@@ -19,6 +19,7 @@
   <h1>
     Hi there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <p>10 years experieces with web and cross platform mobile app development</p>
   </h1>
 </div>
 
