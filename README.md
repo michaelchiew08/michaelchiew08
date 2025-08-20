@@ -21,7 +21,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <h3>
-    10 years experieces with web and cross platform mobile app development
+    10+ years in web and cross-platform mobile app development.
   </h3>
 </div>
 
