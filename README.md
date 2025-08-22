@@ -23,7 +23,7 @@
   <h3>
     10+ years in web and cross-platform mobile app development.
   </h3>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=michaelchiew08)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=michaelchiew08&theme=dark" alt="GitHub Streak" /></a>
 </div>
 
 <!--
